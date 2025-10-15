@@ -1,0 +1,25 @@
+{
+  "id": "cbda08f3-61d1-4d1a-a94d-50a7d275257b",
+  "name": "AIC-WR_Label",
+  "publisher": "BBrackett",
+  "version": "1.0.0.2",
+  "runtime": "12.0",
+  "target": "Cloud",
+  "application": "23.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
